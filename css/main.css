@@ -16,7 +16,8 @@ a {
 
 .nav a:hover,
 .contact-info a:hover,
-.footer-mobile-nav a:hover {
+.footer-mobile-nav a:hover,
+.footer-nav a:hover {
   color: #f4740c;
   border-bottom-color: #f4740c;
 }
