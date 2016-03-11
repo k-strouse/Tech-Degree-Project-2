@@ -4,6 +4,20 @@
     display: block;
   }
 
+  .footer-name {
+    display: block;
+    float: left;
+  }
+
+  .footer-mobile-nav {
+    display: block;
+    float: right;
+  }
+
+  .footer-nav {
+    display: none;
+  }
+
   .clearfix::after {
     content: "";
     display: table;
@@ -17,6 +31,25 @@
     content: "";
     display: table;
     clear: both;
+  }
+
+  .footer-name {
+    float: left;
+    vertical-align: top;
+  }
+
+  .footer-nav {
+    float:right;
+  }
+
+  .footer-nav li {
+    float: left;
+    margin-left: 15px;
+    vertical-align: top;
+  }
+
+  .footer-mobile-nav {
+    display: none;
   }
 }
 @media (min-width: 1025px) {

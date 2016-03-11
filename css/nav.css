@@ -24,11 +24,6 @@
   border-bottom: 1px solid #ebecec;
 }
 
-a:hover {
-  color: #f4740c;
-  border-bottom-color: #f4740c;
-}
-
 .me {
   display: block;
   width: 70%;
@@ -39,10 +34,6 @@ a:hover {
 .nav li {
   margin-left: 15px;
   vertical-align: top;
-}
-
-.contact-info a {
-  font-weight: bold;
 }
 
 .contact-info p,
