@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+}
+
+ul {
+	padding: 0;
+}
+a {
+  text-decoration: none;
+	color: #9d9398;
+}
+
+body {
+  margin: 10px;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #9d9398;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.container {
+	padding-left: 1em;
+	padding-right: 1em;
+	background-color: #fbf7f7;
+}
+
+.wrapper {
+	text-align: center;
+}
+
+.contact-wrapper {
+	background-color: #fbf7f7;
+}
+
+footer {
+	background-color: #fbf7f7;
+}
+
+.portfolio-img {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}

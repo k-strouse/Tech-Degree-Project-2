@@ -1,0 +1,48 @@
+@media (min-width: 321px) {
+
+  .nav a {
+    display: block;
+  }
+
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@media (min-width: 769px) {
+
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+@media (min-width: 1025px) {
+
+  .container {
+    margin: 0;
+  }
+
+  .name {
+    float: left;
+    vertical-align: top;
+  }
+
+  .nav {
+    float:right;
+  }
+
+  .nav li {
+    float: left;
+    margin-left: 15px;
+    vertical-align: top;
+  }
+
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
