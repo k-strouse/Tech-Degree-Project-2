@@ -174,13 +174,13 @@
 
   .gallery li {
     float: left;
-    width: 28.33%;
-    margin: 2.5%;
+    width: 33.33%;
+    margin: 0;
   }
 
   .gallery li p {
     margin: 0;
-    padding: 5%;
+    padding: 0 50px 50px 20px;
     font-size: 1em;
   }
 
@@ -198,7 +198,7 @@
   }
 
   .contact-text  {
-    margin: 20px 50px;
+    margin: 20px 300px;
   }
 
   .footer-mobile-nav {
